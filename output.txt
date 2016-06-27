@@ -1,0 +1,51 @@
+Virtual User Script started at : 6/24/2016 11:12:24 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.50.0 for Windows 8; build 1096 (Jun 24 2016 16:55:24)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\rkravi\Documents\VuGen\Scripts\nfxredirect4\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_set_user started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_user was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_custom_request("device=test") started  	[MsgId: MMSG-26355]
+Action.c(10): web_custom_request("device=test") was successful, 3481 body bytes, 635 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Action.
+Ending iteration 1.
+Starting iteration 2.
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_set_user started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_user was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_custom_request("device=test") started  	[MsgId: MMSG-26355]
+Action.c(10): web_custom_request("device=test") was successful, 22272 body bytes, 635 header bytes, 21 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_set_user started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_user was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_custom_request("device=test") started  	[MsgId: MMSG-26355]
+Action.c(10): web_custom_request("device=test") was successful, 22272 body bytes, 635 header bytes, 29 chunking overhead bytes  	[MsgId: MMSG-26385]
+Ending action Action.
+Ending iteration 3.
+Starting iteration 4.
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_set_user started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_user was successful  	[MsgId: MMSG-26392]
+Action.c(10): web_custom_request("device=test") started  	[MsgId: MMSG-26355]
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

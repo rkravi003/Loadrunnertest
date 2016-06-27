@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=text/html
+StepName=Custom Request: device=test
+Total=2
+FileName1=t1_3_device=perftest002.UNK
+FileName2=t1_1_device=perftest001.UNK
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+ResponseHeaderFile=t1_ResponseHeader.txt
+RequestBodyFile=t1_RequestBody.txt
+URL1=https://redirect1.sndbx.junipercloud.net/restconf/data/juniper-zerotouch-bootstrap-server:devices/device=perftest002
+URL2=https://redirect1.sndbx.junipercloud.net/restconf/data/juniper-zerotouch-bootstrap-server:devices/device=perftest001

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\rkravi\Documents\VuGen\Scripts\nfxredirect4
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\rkravi\documents\vugen\scripts\nfxredirect4\\logfile.log
+c:\users\rkravi\documents\vugen\scripts\nfxredirect4\\combined_nfxredirect4.c
+c:\users\rkravi\documents\vugen\scripts\nfxredirect4\\pre_cci.c

@@ -1,0 +1,202 @@
+[API Trapper      ( e78:1630)] Recording in 32-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (2180:109c)] Recording in 32-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( e78: 930)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( e78: 930)] Load Network Traffic Analyzers:
+[Network Analyzer ( e78: 930)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( e78: 930)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( e78: 930)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( e78: 930)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( e78: 930)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( e78: 930)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( e78: 930)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( e78: 930)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( e78:2808)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78:1898)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78:1898)] Request Connection: Remote Server @ 10.223.4.220:135   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78:2808)]   (Sid:  1) Client -> Server @ : 116 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  1) Server -> Client : 84 bytes 
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.197.74:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( e78:2808)]   (Sid:  1) Client -> Server @ : 156 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  1) Server -> Client : 240 bytes 
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.14:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78:1898)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78:1898)] Request Connection: Remote Server @ 10.223.4.220:49156   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( e78:2808)]   (Sid:  4) Client -> Server @ : 2205 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  4) Server -> Client : 261 bytes 
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.46:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( e78:2808)]   (Sid:  4) Client -> Server @ : 220 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  4) Server -> Client : 105 bytes 
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 74.125.130.188:5228   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( e78:2808)]   (Sid:  4) Client -> Server @ : 252 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  4) Server -> Client : 204 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  4) Client -> Server @ : 140 bytes 
+[Network Analyzer ( e78:2808)]   (Sid:  4) Server -> Client : 140 bytes 
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 10.78.17.53:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( e78:26f0)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:26f0)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78:1948)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:1948)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78:1968)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:1968)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78:1e8c)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:1e8c)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      ( e78:2808)] "GET /chrome-variations/seed?osname=win"   
+[Network Analyzer ( e78:2808)]   (Sid:  3) Client -> Server @ : 335 bytes (SSL)(Service=HTTP)
+[Web Request      ( e78:2808)] "POST /safebrowsing/gethash?client=googlechrome&appver=51.0.2704.84&pver=3.0&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&ext=0"   
+[Network Analyzer ( e78:2808)]   (Sid:  5) Client -> Server @ : 555 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  6) Client -> Server @ : 154 bytes (SSL)
+[Web Request      ( e78:2808)] "GET /translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw&alpha=1"   
+[Network Analyzer ( e78:2808)]   (Sid:  2) Client -> Server @ : 318 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  6) Server -> Client : 1 bytes (SSL)
+[Network Analyzer ( e78:2808)]   (Sid:  5) Server -> Client : 470 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  6) Server -> Client : 89 bytes (SSL)
+[Network Analyzer ( e78:2808)]   (Sid:  6) Server -> Client : 105 bytes (SSL)
+[Network Analyzer ( e78:2808)]   (Sid:  2) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  2) Server -> Client : 98 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  3) Server -> Client : 260 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2320)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:2320)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Web Request      ( e78:2808)] "GET /restconf/data/juniper-zerotouch-bootstrap-server:devices/device=TEST-000000000000001"   
+[Network Analyzer ( e78:2808)]   (Sid:  7) Client -> Server @ : 478 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.46:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.45:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( e78:2808)]   (Sid:  7) Server -> Client : 353 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  7) Server -> Client : 1104 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78: da8)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78: da8)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78:29cc)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:29cc)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 64.233.189.105:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.35:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( e78: 930)] Address lookup for rkravi-T450 = 10.222.1.146
+[Network Analyzer ( e78: 930)] Request Connection: Remote Server @ 216.58.220.35:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( e78: 608)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78: 608)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78: 7e0)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78: 7e0)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Web Request      ( e78:2808)] "GET /safebrowsing/csd/client_model_v5_variation_0.pb"   
+[Network Analyzer ( e78:2808)]   (Sid: 11) Client -> Server @ : 271 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1350 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78: 504)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 867 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1237 bytes (SSL) (Service=HTTP)
+[Web Request      ( e78:2808)] "GET /safebrowsing/csd/client_model_v5_ext_variation_0.pb"   
+[Network Analyzer ( e78:2808)]   (Sid: 11) Client -> Server @ : 275 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78: 504)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:AES128-GCM-SHA256)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1350 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 867 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid: 11) Server -> Client : 1237 bytes (SSL) (Service=HTTP)
+[Web Request      ( e78:2808)] "GET /restconf/data/juniper-zerotouch-bootstrap-server:devices/device=TEST-000000000000001"   
+[Network Analyzer ( e78:2808)]   (Sid:  7) Client -> Server @ : 582 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  7) Server -> Client : 282 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  7) Server -> Client : 2706 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( e78:2808)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( e78:2808)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer ( e78:2808)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( e78:2808)]   (Sid: 10) Connection Terminated (by Client)
